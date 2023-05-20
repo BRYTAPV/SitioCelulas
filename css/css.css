@@ -1,0 +1,9 @@
+img{
+    border: 1px solid;
+    border-radius: 50px;
+    width: 300px;
+}
+
+body{
+    background-color: white;
+}
